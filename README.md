@@ -1,1 +1,6 @@
-# CS210
+My final project in CS210, a grocery list application. The user is asked to choose between 4 options - produce a list of all items, produce a number representing how many times a certain item was purchased on a given day, and produce a text-based histogram listing all items purchased which will visually show which items were purchased most. The 4th option is a quit button. This application helps the user track which items are needed / which have been purchased, helping them manage their grocery list. 
+The code for this project came together very well. Linking together the Python and C++ file went smoothly and helped make the coding process for this project more manageable with the 2 seperate files. 
+Adding a few more features would enhance the overall user experience for this application. Some ideas I've thought of would be prices of certain items, as well as nutritional facts. 
+There weren't any specific roadblocks for me during this project. The only difficulty I faced was getting the Python and C++ files to communcate and run properly, once I figured that out everything fell together. 
+C++ and Python are 2 very popular programming languages, so the skills I learned from this project will transfer over to future projects when using those 2 languages. 
+This program is super easy and straightforward to use for the user. The simplicity approach helped make this possible, with not an overload of features or options for the user to select. 
